@@ -56,4 +56,5 @@ export const Delete = styled.button`
   background-color: transparent;
   font-size: 24px;
   border-width: 0;
+  cursor: pointer;
 `
